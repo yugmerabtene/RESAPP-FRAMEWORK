@@ -1,231 +1,60 @@
-# resApp-framwork
-An HTML, CSS, JS, frontend responsive framework
-Getting started
-Introduction
-Download
-Contents
-Browsers & devices
-JavaScript
-Webpack
-Parcel
-Vite
-Accessibility
-RFS
-RTL
-Contribute
-Customize
-Overview
-Sass
-Options
-Color
-Color modes
-Components
-CSS variables
-Optimize
-Layout
-Breakpoints
-Containers
-Grid
-Columns
-Gutters
-Utilities
-Z-index
-CSS Grid
-Content
-Reboot
-Typography
-Images
-Tables
-Figures
-Forms
-Overview
-Form control
-Select
-Checks & radios
-Range
-Input group
-Floating labels
-Layout
-Validation
-Components
-Accordion
-Alerts
-Badge
-Breadcrumb
-Buttons
-Button group
-Card
-Carousel
-Close button
-Collapse
-Dropdowns
-List group
-Modal
-Navbar
-Navs & tabs
-Offcanvas
-Pagination
-Placeholders
-Popovers
-Progress
-Scrollspy
-Spinners
-Toasts
-Tooltips
-Helpers
-Clearfix
-Color & background
-Colored links
-Focus ring
-Icon link
-Position
-Ratio
-Stacks
-Stretched link
-Text truncation
-Vertical rule
-Visually hidden
-Utilities
-API
-Background
-Borders
-Colors
-Display
-Flex
-Float
-Interactions
-Link
-Object fit
-Opacity
-Overflow
-Position
-Shadows
-Sizing
-Spacing
-Text
-Vertical align
-Visibility
-Z-index
-Extend
-Approach
-Icons
-About
-Overview
-Team
-Brand
-License
-TranslationsGetting started
-Introduction
-Download
-Contents
-Browsers & devices
-JavaScript
-Webpack
-Parcel
-Vite
-Accessibility
-RFS
-RTL
-Contribute
-Customize
-Overview
-Sass
-Options
-Color
-Color modes
-Components
-CSS variables
-Optimize
-Layout
-Breakpoints
-Containers
-Grid
-Columns
-Gutters
-Utilities
-Z-index
-CSS Grid
-Content
-Reboot
-Typography
-Images
-Tables
-Figures
-Forms
-Overview
-Form control
-Select
-Checks & radios
-Range
-Input group
-Floating labels
-Layout
-Validation
-Components
-Accordion
-Alerts
-Badge
-Breadcrumb
-Buttons
-Button group
-Card
-Carousel
-Close button
-Collapse
-Dropdowns
-List group
-Modal
-Navbar
-Navs & tabs
-Offcanvas
-Pagination
-Placeholders
-Popovers
-Progress
-Scrollspy
-Spinners
-Toasts
-Tooltips
-Helpers
-Clearfix
-Color & background
-Colored links
-Focus ring
-Icon link
-Position
-Ratio
-Stacks
-Stretched link
-Text truncation
-Vertical rule
-Visually hidden
-Utilities
-API
-Background
-Borders
-Colors
-Display
-Flex
-Float
-Interactions
-Link
-Object fit
-Opacity
-Overflow
-Position
-Shadows
-Sizing
-Spacing
-Text
-Vertical align
-Visibility
-Z-index
-Extend
-Approach
-Icons
-About
-Overview
-Team
-Brand
-License
-Translations
+# RESAPP-FRAMEWORK
+
+An HTML, CSS, JS, frontend responsive framework for building modern web applications.
+
+## Getting Started
+
+If you're new to RESAPP-FRAMEWORK, you can follow these instructions to get started with your project.
+
+### Introduction
+
+RESAPP-FRAMEWORK is a responsive frontend framework that helps you build modern and responsive web applications.
+
+### Download
+
+You can download the latest version of RESAPP-FRAMEWORK from the [GitHub releases](https://github.com/yugmerabtene/RESAPP-FRAMEWORK/releases) page.
+
+## Contents
+
+- 🌐 [Browsers & Devices](#browsers--devices)
+- 🚀 [JavaScript](#javascript)
+- ⚙️ [Webpack](#webpack)
+- 📦 [Parcel](#parcel)
+- 🚀 [Vite](#vite)
+- ♿ [Accessibility](#accessibility)
+- 📏 [RFS](#rfs)
+- ↩️ [RTL](#rtl)
+
+... (add more sections as needed)
+
+## Contribute
+
+If you'd like to contribute to RESAPP-FRAMEWORK, please follow our [contribution guidelines](CONTRIBUTING.md).
+
+## Customize
+
+You can customize RESAPP-FRAMEWORK to suit your project's needs. Here are some customization options:
+
+### Overview
+
+- 💅 [Sass Options](#sass-options)
+- 🎨 [Color](#color)
+- 🌈 [Color Modes](#color-modes)
+- 🧩 [Components](#components)
+- 📐 [CSS Variables](#css-variables)
+
+... (add more customization options as needed)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc.
+
+---
+
+© 2023 RESAPP-FRAMEWORK. All Rights Reserved.
